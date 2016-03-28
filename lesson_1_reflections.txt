@@ -1,0 +1,26 @@
+Using diff to find bugs
+Very helpful to quickly see the differences between 2 files
+
+To find out where subl is:
+ls /Applications/Sublime\ Text.app/Contents/SharedSupport/bin
+
+Had to go up to top directory above Rebecca users - can tell because shows /Rebecca not ~Rebecca !!!
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+If you accidently delete something you can easily get it back again, rather than having to rewrite it.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+It's good for getting logical versions with specific separate changes in them, but it relies on the coder remembering to do the commits.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+In coding, files are often intrinsically linked and when you make a change in one you also make a change in another.  In Google Docs, files are usually independent.
+
+How can you use the commands git log and git diff to view the history of files?
+
+Git log gives you a list of commits in reverse chronologically order.  Git diff compares 2 commits.  git diff first_id second_id
+
+How might using version control make you more confident to make changes that could break something? Since you know that you can always revert to a previous version, there’s no harm in making changes.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Comparing files.  Looking for bugs.
