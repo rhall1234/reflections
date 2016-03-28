@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+You create a repository.  This is where you are going to keep all the files that you want to track and commit together.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Working directory is the folder you are in.
+Repository is the collection of files that you want to/have committed
+Staging area is the files that you are about to commit.
