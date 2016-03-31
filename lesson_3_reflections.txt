@@ -9,3 +9,5 @@ Branch - when you want to try out a new feature
 Clone - exact copy of repository.
 Fork - clone of someone else's repository where you are going to make new features.  You need to make a clone in order to fork
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+If you want to work offline, then you have the most up to date copy of the remote.
