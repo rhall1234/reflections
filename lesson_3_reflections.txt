@@ -11,3 +11,6 @@ Fork - clone of someone else's repository where you are going to make new featur
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 If you want to work offline, then you have the most up to date copy of the remote.
+
+How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
+You would have to use something like Google Docs or email files around.  You wouldn't have to learn a new set of commands, but you would end up very confused about what the latest version was.  It seems worth investing in learning Git/Github to take advantage of it's great version control.
